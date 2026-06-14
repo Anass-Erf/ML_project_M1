@@ -1,0 +1,63 @@
+# Virtual Environment
+myenv/
+venv/
+env/
+ENV/
+.venv
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+notebooks/.ipynb_checkpoints/
+
+# Data files (large datasets)
+data/raw/
+data/processed/
+*.csv
+*.npy
+*.npz
+*.pkl
+*.pickle
+
+# Model files (large binaries)
+models/
+*.pt
+*.pth
+*.h5
+*.pkl
+
+# Figures and outputs
+outputs/
+results/
+
+# IDE and Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# OS files
+Thumbs.db
+.DS_Store
+*.log
