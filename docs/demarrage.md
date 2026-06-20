@@ -7,7 +7,7 @@ Ce fichier explique comment demarrer, verifier et utiliser le projet.
 Ouvrir PowerShell puis executer:
 
 ```powershell
-cd "C:\Users\Province Settat\Desktop\ML\project"
+cd "C:\Desktop\ML\project"
 ```
 
 ## 2. Lancer l'application Streamlit
